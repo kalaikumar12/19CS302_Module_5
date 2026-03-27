@@ -9,7 +9,7 @@ To write a C program to check whether a given character is a vowel or consonant 
 3. 
 4.  
 5.   
-
+av
 ## Program:
 ```
 /*
